@@ -1,6 +1,6 @@
 {
   "name": "array-like-object-wrapper",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "array-like-object-wrapper",
   "main": "dist/cjs.js",
   "scripts": {
