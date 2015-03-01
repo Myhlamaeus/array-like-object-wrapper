@@ -2,7 +2,6 @@
   "name": "array-like-object-wrapper",
   "description": "A wrapper to make array-like objects extensible when used in transpiled ES6",
   "version": "0.1.1",
-  "description": "array-like-object-wrapper",
   "main": "dist/cjs.js",
   "scripts": {
     "test": "grunt test",
