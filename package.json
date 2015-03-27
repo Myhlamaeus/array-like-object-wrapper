@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/ileri/array-like-object-wrapper",
   "license": "MIT",
-  "main": "dist/cjs.js",
+  "main": "dist/array-like-object-wrapper.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/ileri/array-like-object-wrapper.git"
