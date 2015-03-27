@@ -2,26 +2,26 @@
   "name": "array-like-object-wrapper",
   "description": "A wrapper to make array-like objects extensible when used in transpiled ES6",
   "version": "0.1.2",
-  "main": "dist/cjs.js",
-  "scripts": {
-    "test": "grunt test",
-    "prepublish": "grunt build:cjs"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ileri/array-like-object-wrapper.git"
-  },
   "author": "Malte-Maurice Dreyer <dreyer.maltem@gmail.com>",
-  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/ileri/array-like-object-wrapper/issues"
   },
-  "homepage": "https://github.com/ileri/array-like-object-wrapper",
+  "dependencies": {},
   "devDependencies": {
     "babel": "^4.4.6",
     "gulp": "^3.8.11",
     "gulp-babel": "^4.0.0",
     "gulp-sourcemaps": "^1.5.1"
   },
-  "dependencies": {}
+  "homepage": "https://github.com/ileri/array-like-object-wrapper",
+  "license": "GPL-3.0",
+  "main": "dist/cjs.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ileri/array-like-object-wrapper.git"
+  },
+  "scripts": {
+    "prepublish": "grunt build:cjs",
+    "test": "grunt test"
+  }
 }
