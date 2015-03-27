@@ -13,7 +13,7 @@
     "gulp-sourcemaps": "^1.5.1"
   },
   "homepage": "https://github.com/ileri/array-like-object-wrapper",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "main": "dist/cjs.js",
   "repository": {
     "type": "git",
