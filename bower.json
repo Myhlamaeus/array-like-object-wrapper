@@ -1,7 +1,7 @@
 {
   "name": "array-like-object-wrapper",
   "main": "array-like-object-wrapper.js",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "homepage": "https://github.com/ileri/array-like-object-wrapper",
   "authors": [
     "Malte-Maurice Dreyer <dreyer.maltem+dev@gmail.com>"

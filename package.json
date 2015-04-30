@@ -1,7 +1,7 @@
 {
   "name": "array-like-object-wrapper",
   "description": "A wrapper to make array-like objects extensible when used in transpiled ES6",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": "Malte-Maurice Dreyer <dreyer.maltem+dev@gmail.com>",
   "bugs": {
     "url": "https://github.com/ileri/array-like-object-wrapper/issues"
